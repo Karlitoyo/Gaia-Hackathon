@@ -21,17 +21,17 @@ const IndexPage = () => {
                 <div className="lg:relaive md:relative inset-0 flex flex-col justify-center items-center w-5/6 max-w-lg mx-auto lg:mr-60 text-center overflow-hidden">
 
                     <h1 className="font-primary font-extrabold text-white text-3xl sm:text-4xl md:text-5xl md:leading-snug">
-                        SHIHverse NFT
+                        Gaia IPFS storate solution
                     </h1>
                     <div className="space-y-8 ">
                         <h1 className="font-primary font-extrabold text-white text-3xl sm:text-4xl md:text-5xl md:leading-tight">
-                            Easily Mint NFT'S on {' '}
+                            Store all your documents via {' '}
                             <span className="text-palette-primary">
-                                SHIH.
+                                Gaia.
                             </span>
                         </h1>
                         <p className="font-secondary text-palette-light text-base md:text-lg lg:text-xl">
-                            All your NFT's in one Doggy dogg world!
+                            Providing decentralised storage solutions!
                         </p>
                         <Link href="/marketplace">
                             <button type="button" className="py-4 px-6 bg-blue-600 hover:bg-blue-700 focus:ring-blue-500 focus:ring-offset-blue-200 text-white transition ease-in duration-200 text-center text-base font-semibold shadow-md focus:outline-none focus:ring-2 focus:ring-offset-2 w-9/12 rounded-full">
