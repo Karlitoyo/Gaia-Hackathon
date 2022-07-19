@@ -1,1 +1,1 @@
-# Gaia-Hackathon
+Shih-Tzu NFT Marketplace - Typescript + solidity
