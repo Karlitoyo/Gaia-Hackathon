@@ -12,7 +12,7 @@ const IndexPage = () => {
         <div className="bg-gradient-to-tr from-red-500 to-purple-400 relative h-screen overflow-hidden">
             <div className='md:flex md:justify-center lg:justify-left'>
                 <div>
-                    <Image src={Shihverse}
+                    <Image src={}
                         // loader={myLoader}
                         className="inset-0 w-full md:justify-center h-full object-cover filter brightness-50"
                         alt="main background image"
