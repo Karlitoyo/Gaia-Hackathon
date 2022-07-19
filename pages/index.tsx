@@ -1,6 +1,5 @@
 import { BaseLayout, Navbar } from '@ui';
 import Image from 'next/image';
-import Shihverse from '../public/images/shih-tzu.png';
 import Link from 'next/link';
 
 // const myLoader = ({ src }) => {
